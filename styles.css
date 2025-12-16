@@ -1,1 +1,79 @@
+body {
+	background: #A164DF;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+#buttons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	justify-content: center;
+}
+
+.btn, .stop {
+	background: #663399;
+	color: white;
+	border: none;
+	padding: 12px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	border-radius: 8px;
+	transition: 0.3s;
+}
+
+.btn:hover, .stop:hover {
+	opacity: 0.8;
+}
+
+.stop{
+	margin: 1px; 
+}
 /*  your css code here. If applicable */
+body {
+	background: #A164DF;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+#buttons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	justify-content: center;
+}
+
+.btn, .stop {
+	background: #663399;
+	color: white;
+	border: none;
+	padding: 12px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	border-radius: 8px;
+	transition: 0.3s;
+}
+
+.btn:hover, .stop:hover {
+	opacity: 0.8;
+}
+
+.stop{
+	margin: 1px; 
+}
